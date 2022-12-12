@@ -1,0 +1,1 @@
+Configiration management readme file
